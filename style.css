@@ -1,0 +1,5 @@
+.container { line-height: 5px; }
+.bodys { margin-top: -30px; width: 100%; font-size: 12px; }
+.td1 { font-size: small; padding-top: 2px; padding-bottom: 2px; padding-left: 9px; padding-right: 9px; border: 1px solid black; }
+.td2 { font-size: xx-small; padding-top: 0; padding-bottom: 0; padding-left: 6px; padding-right: 6px; border: 1px solid black; }
+body { margin: 0; padding: 0; }
